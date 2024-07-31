@@ -1,4 +1,3 @@
--Bendkule/README.md
 👋 Hi, I’m @RohanOhol
 👀 I’m interested in Web Development
 🌱 I’m currently learning MERN
